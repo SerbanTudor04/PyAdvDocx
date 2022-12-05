@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyadvdocx"
-version = "0.0.3"
+version = "0.0.4"
 description = "An open source project inspired from python-docx ."
 readme = "README.md"
 authors = [{ name = "SerbanTudor04", email = "tudor.gabriel.serban@gmail.com" }]
@@ -20,7 +20,7 @@ dependencies = [
     "python-docx",
     'tomli; python_version < "3.11"',
 ]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 
 [project.optional-dependencies]
 dev = ["black", "bumpver", "isort", "pip-tools", "pytest"]
