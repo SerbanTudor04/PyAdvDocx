@@ -39,3 +39,7 @@ pip3 install pyadvdocx
 python3 test_text.py
 # Look in data dir for *_done.docx files
 ```
+
+
+## Changelog:
+[View changelog](./CHANGELOG.md)
