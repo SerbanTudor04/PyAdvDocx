@@ -12,3 +12,6 @@
 
 # 0.0.4
 - Increase minimum version of the python from 3.9 => 3.10
+
+# 0.0.5 
+- Update setup.py to the latest version

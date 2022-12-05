@@ -42,4 +42,4 @@ python3 test_text.py
 
 
 ## Changelog:
-[View changelog](./CHANGELOG.md)
+[View changelog](https://github.com/SerbanTudor04/PyAdvDocx/blob/main/CHANGELOG.md)
